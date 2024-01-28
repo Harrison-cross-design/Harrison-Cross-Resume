@@ -110,7 +110,7 @@ nav {
 }
 
 .nav__bar a {
-  font-size: 1.2rem;
+  font-size: 2rem;
   font-weight: 600;
   color: var(--white);
 }
@@ -628,3 +628,7 @@ border-radius: 2rem;
     margin: 0;
   }
   
+
+  .titletext {
+    text-size-adjust: 3rem;
+  }
