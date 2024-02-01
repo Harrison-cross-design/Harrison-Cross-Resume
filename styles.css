@@ -186,15 +186,6 @@ nav {
   border-radius: 2rem;
 }
 
-.header__image::after {
-  position: absolute;
-  content: "HARRISON";
-  letter-spacing: 1.5rem;
-  opacity: 0.5;
-  right: -2rem;
-  top: 50%;
-  transform: translate(50%, -50%) rotate(90deg);
-}
 
 .about__container {
   display: grid;
@@ -605,29 +596,29 @@ border-radius: 2rem;
     flex-direction: column;
     align-items: center;
   }
-  
+
   .footer__content {
     text-align: center;
     margin-bottom: 20px;
   }
-  
+
   .footer__content p {
     margin: 10px 0;
   }
-  
+
   .footer__content a {
     color: #ffffff;
     text-decoration: none;
   }
-  
+
   .footer__content a:hover {
     text-decoration: underline;
   }
-  
+
   .footer__copyright {
     margin: 0;
   }
-  
+
 
   .titletext {
     text-size-adjust: 3rem;
